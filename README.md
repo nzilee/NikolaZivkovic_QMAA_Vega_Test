@@ -1,5 +1,3 @@
-# NikolaZivkovic_QMAA_Vega_Test
-
 # Playwright Automation with TestNG
 
 **Test Cases:** https://docs.google.com/spreadsheets/d/1Ba2mbsvCKN1owgq0PWNV9NdFauaQS1RIu3cvBtGiqBA/edit?usp=sharing  
