@@ -1,0 +1,19 @@
+<suite name="Playwright Test Suite">
+    <test name="Login Page Tests">
+        <classes>
+            <class name="tests.LoginPageTest"/>
+        </classes>
+    </test>
+
+    <test name="Products Page Tests">
+    <classes>
+        <class name="tests.ProductsPageTest"/>
+    </classes>
+</test>
+
+    <test name="Checkout Page Tests">
+        <classes>
+            <class name="tests.CheckoutPageTests"/>
+        </classes>
+    </test>
+</suite>
